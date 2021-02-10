@@ -1,3 +1,4 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/Users/drmark/github/ProgLangDesign_Spring2021/Jan25/"), "root")...
-[debug] Done updating ProjectRef(uri("file:/Users/drmark/github/ProgLangDesign_Spring2021/Jan25/"), "root")
+[warn] scala3-library_3.0.0-M2-3.0.0-M2-sources.jar no longer exists at \Users\drmark\Library\Caches\Coursier\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3.0.0-M2\3.0.0-M2\scala3-library_3.0.0-M2-3.0.0-M2-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/brand/Documents/School/MCS%20415%20(CS%20476)/HomeWork/ProgLangDesign_Spring2021/Jan25/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/brand/Documents/School/MCS%20415%20(CS%20476)/HomeWork/ProgLangDesign_Spring2021/Jan25/"), "root")
